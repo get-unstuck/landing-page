@@ -52,7 +52,7 @@ export default function Home() {
           </svg>
         </Flex>
 
-        <Image height={{base:"216.46px",md:"475.29px",lg:"592px"}} className='linear' marginTop={{base:"260px",md:"111.4px"}} src="hero.svg" alt="hero"/>
+        <Image height={{base:"216.46px",md:"475.29px",lg:"592px"}} className='linear' marginTop={{base:"220px",md:"111.4px"}} src="hero.svg" alt="hero"/>
           
       </Flex>
 
